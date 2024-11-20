@@ -1,0 +1,6 @@
+[submodule "src/hal"]
+	path = src/hal
+	url = https://github.com/Gold-Rush-Robotics/hal
+[submodule "src/logistics"]
+	path = src/logistics
+	url = https://github.com/Gold-Rush-Robotics/MiningMayhemRobotCode
